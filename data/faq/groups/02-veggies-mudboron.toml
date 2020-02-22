@@ -1,0 +1,22 @@
+id = "veggies-mudboron"
+name = "Mudboron Veggies"
+
+[[items]]
+
+question = "What are the veggies there?"
+answer = "Currently planted with ampalaya."
+
+[[items]]
+
+question = "How many unit areas where planted?"
+answer = "Per discussion, 2."
+
+[[items]]
+
+question = "Planting capacity?"
+answer = "Not sure, maybe 4 but given the current funds limitation, only 2 where utilized."
+
+[[items]]
+
+question = "So how about idle areas?"
+answer = "Anyone from the member with personal extra funds can utilize those idle areas. Better for it to be utilized than just lay idle. Group gets nothing for now."

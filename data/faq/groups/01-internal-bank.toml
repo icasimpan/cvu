@@ -1,0 +1,36 @@
+id = "bank"
+name = "Internal Bank"
+
+[[items]]
+question = "What is the Internal Bank?"
+answer = "Just like traditional banks, it would function as a bank but will only lend internally. It would serve to assist each member in times of need and for financially starting their own independent business for a small fee."
+
+[[items]]
+
+question = "What are the current products?"
+answer = "For now, only loans on a first come first served basis."
+
+[[items]]
+
+question = "Are there requirements to avail of a loan?"
+answer = "Must be a member of the group and just first come first serve basis. since funds are limited for now."
+
+[[items]]
+
+question = "What are the fees for loan?"
+answer = "Interest is 3.5% for 30 days. After 30 days, penalty of 0.35."
+
+[[items]]
+
+question = "What are the terms of the loan?"
+answer = "They can use it for anything. If they need to use the funds on a rolling basis, just return the interest within 30 days and it can be reused for another 30 days with the same interest rate. Failure to return the interest within 30 days would mean you incur the penalty."
+
+[[items]]
+
+question = "Is there limit on the loan amount?"
+answer = "Yes, Php500 at this time."
+
+[[items]]
+
+question = "Is there a limit on the number of months to roll the loaned amount?"
+answer = "None for now. Just comply with the terms."
