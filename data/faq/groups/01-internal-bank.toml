@@ -3,12 +3,20 @@ name = "Internal Bank"
 
 [[items]]
 question = "What is the Internal Bank?"
-answer = "Just like traditional banks, it would function as a bank but will only lend internally. It would serve to assist each member in times of need and for financially starting their own independent business for a small fee."
+answer = "Just like traditional banks, it would function as a bank but will only lend internally to members and hold in escrow funds that where contributed by members both for a reasonable fee."
+
+[[items]]
+question = "How is the bank funded?"
+answer = "Funding comes primarily from passive income and earnings from the products it offers."
+
+[[items]]
+question = "What are those passive income?"
+answer = "Donations from members, rebates from ING, CIMB, GCash, Paymaya, coins.ph etc."
 
 [[items]]
 
 question = "What are the current products?"
-answer = "For now, only loans on a first come first served basis."
+answer = "For now, only loans on a first come first served basis and holding escrow funds contributed by members."
 
 [[items]]
 
@@ -34,3 +42,8 @@ answer = "Yes, Php500 at this time."
 
 question = "Is there a limit on the number of months to roll the loaned amount?"
 answer = "None for now. Just comply with the terms."
+
+[[items]]
+
+question = "How much is the escrow fee?"
+answer = "5% of the net earnings to where the funds are invested."
