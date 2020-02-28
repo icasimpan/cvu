@@ -31,7 +31,18 @@ answer = "Interest is 3.5% for 30 days. After 30 days, penalty of 0.35%."
 [[items]]
 
 question = "What are the terms of the loan?"
-answer = "They can use it for anything. If they need to use the funds on a rolling basis, just return the interest within 30 days and it can be reused for another 30 days with the same interest rate. Failure to return the interest within 30 days would mean you incur the penalty."
+answer = "You can use it for anything. If you want to roll the funds use, just follow the rules on rolling funds. Flexi-terms is also in place, see details about it."
+
+[[items]]
+
+question = "What is rolling use of funds?"
+answer = "Rolling is defined as use of funds beyond 30days and it will only be considered a rolled fund if you paid the corresponding interest. Failure to pay the corresponding interest within 30days would mean you incur the penalty rate."
+
+[[items]]
+
+question = "What is flexi-terms"
+answer = "You don't need to register for flexi-terms as it is automatic. Flexi-terms means, you pay the interest every 10days with 1.5% interest. Take note that this is only effective for the 1st to 20th day or a total of 3.0% interest. After that, you will automatically be paying the normal interest which is 3.5% and penalty if beyond 30days."
+
 
 [[items]]
 
